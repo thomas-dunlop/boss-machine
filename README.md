@@ -1,5 +1,6 @@
 # Project Name
-> Outline a brief description of your project.
+> Boss Machine API built for the Code Academy Back-End Engineer career path. 
+> The purpose of the project was to demonstrate the ability to set up routing and middleware for express.js. 
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
